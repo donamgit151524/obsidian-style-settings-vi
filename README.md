@@ -1,6 +1,6 @@
 # Style Settings — Việt hóa
 
-Bản tùy chỉnh tiếng Việt dựa trên Style Settings **1.0.9** của mgmeyers, phát hành **1.0.9-vi.1**. Đây không phải bản phát hành chính thức của tác giả gốc.
+Bản tùy chỉnh tiếng Việt dựa trên Style Settings **1.0.9** của mgmeyers, phát hành **1.0.9-vi.2**. Đây không phải bản phát hành chính thức của tác giả gốc. Bản vi.2 xử lý thêm cửa sổ cài đặt tách rời không cung cấp mã ngôn ngữ cho plugin.
 
 ## Công dụng
 
@@ -43,7 +43,7 @@ Chọn bản mới nhất rồi thêm plugin; bật **Enable after installing th
 
 - Giao diện nhập/xuất, tìm kiếm, khôi phục mặc định, bộ chọn màu và lệnh mở khung.
 - Thêm locale `vi` cho thông báo giá trị mặc định và lỗi cấu hình.
-- Dịch 28 tên/mô tả của cấu hình CSS PDF++ khi Obsidian dùng tiếng Việt.
+- Dịch 28 tên/mô tả của cấu hình CSS PDF++, kể cả trong cửa sổ cài đặt tách rời.
 - Tên sản phẩm Style Settings, PDF++, mã màu, ID, khóa JSON, tên biến CSS và giá trị thực tế giữ nguyên.
 
 Tên/mô tả do theme hoặc plugin khác cung cấp được ưu tiên lấy từ `title.vi` và `description.vi` nếu có; nếu không có trong từ điển, giữ nguyên nội dung tác giả cung cấp. Bản này không tự dịch tùy ý mọi theme bên ngoài.
