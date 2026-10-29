@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-style-settings",
+  "name": "Style Settings",
+  "version": "1.0.9-vi.1",
+  "minAppVersion": "0.11.5",
+  "description": "Tùy chỉnh giao diện, màu sắc và biến CSS của theme, plugin và snippet — bản Việt hóa.",
+  "author": "mgmeyers",
+  "authorUrl": "https://github.com/mgmeyers/obsidian-style-settings",
+  "isDesktopOnly": false
+}
